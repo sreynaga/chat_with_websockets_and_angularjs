@@ -1,4 +1,3 @@
-chat_with_websockets_and_angularjs
-==================================
+The OpenShift `nodejs` cartridge documentation can be found at:
 
-Chat usando Websocket con Angularjs
+http://openshift.github.io/documentation/oo_cartridge_guide.html#nodejs
